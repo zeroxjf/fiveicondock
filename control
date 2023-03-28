@@ -1,0 +1,11 @@
+Package: me.alexia.fiveicondock
+Name: FiveIconDock
+Depends: cy+model.iphone | cy+model.ipod, firmware (>= 13.0), mobilesubstrate
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: A tweak to have 5 icons in your dock on iOS 13+
+Maintainer: alexia <me@alexia.lol>
+Author: alexia <me@alexia.lol>
+Section: Tweaks
+Depiction: https://repo.alexia.lol/depictions/me.alexia.fiveicondock
+SileoDepiction: https://repo.alexia.lol/sileo-depictions/me.alexia.fiveicondock
